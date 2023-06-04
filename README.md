@@ -2,4 +2,4 @@
 
 An OpenAI Image Generator App developed using MERN stack
 
-website link - https://dreamy-choux-1910be.netlify.app/
+website link - https://dalle-openai-image.netlify.app/
